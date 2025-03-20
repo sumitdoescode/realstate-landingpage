@@ -402,6 +402,10 @@ body {
                 border-radius: 0.4rem;
                 cursor: pointer;
                 font-family: inherit;
+                a {
+                    color: $white-color;
+                    // text-decoration: underline;
+                }
             }
         }
     }
