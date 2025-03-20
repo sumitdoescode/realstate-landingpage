@@ -9,7 +9,11 @@ const Subscribe = () => {
                     <div className="sub-content">
                         <Title title={"Get Started with Homyz"} />
                         <Text text={"Subscribe and find super attractive price quotes from us. Find your residence soon."} />
-                        <button>Subscribe Now</button>
+                        <button>
+                            <a href="https://www.instagram.com/sumitdoescode/" target="_blank">
+                                Subscriber Now
+                            </a>
+                        </button>
                     </div>
                 </div>
             </div>
